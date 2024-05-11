@@ -5,7 +5,7 @@ import java.util.Scanner;
 
 public class FuncaoEProcedimento {
 
-    static Scanner entrada = new Scanner(System.in);
+//    static Scanner entrada = new Scanner(System.in);
 
     static Random random = new Random();
 
