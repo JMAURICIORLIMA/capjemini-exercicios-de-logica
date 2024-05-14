@@ -4,11 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="388eb103-cf77-40f6-b728-e5ad5ff633a2" name="Changes" comment="Commit inicial">
-      <change afterPath="$PROJECT_DIR$/src/br/com/capjemini/algoritimos/aula29/Exercicio.java" afterDir="false" />
+    <list default="true" id="388eb103-cf77-40f6-b728-e5ad5ff633a2" name="Changes" comment="Add exercicio28">
+      <change afterPath="$PROJECT_DIR$/src/br/com/capjemini/algoritimos/Aula31/CadastroCliente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/capjemini/algoritimos/Aula31/Principal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/capjemini/algoritimos/aula30/CadastroCliente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/capjemini/algoritimos/aula30/Principal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/capjemini/algoritimos/aula32/Registro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/capjemini/algoritimos/aula32/TestRegistro01.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/capjemini/algoritimos/aula27/FuncaoEProcedimento.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/capjemini/algoritimos/aula27/FuncaoEProcedimento.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/capjemini/algoritimos/aula28/FuncaoEProcedimento.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/capjemini/algoritimos/aula28/FuncaoEProcedimento.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,13 +68,16 @@
     "Application.ModDiv.executor": "Run",
     "Application.Para.executor": "Debug",
     "Application.PrimeiroContato.executor": "Run",
+    "Application.Principal.executor": "Run",
     "Application.Repita.executor": "Run",
     "Application.TabelaVerdade.executor": "Run",
+    "Application.TestRegistro01.executor": "Run",
     "Application.TrabalhandoComTipos.executor": "Run",
     "Application.TrabalhandoComTiposDeVariaveis.executor": "Run",
     "Application.Triangulo.executor": "Run",
     "Application.Vetores.executor": "Run",
     "Application.Votacao.executor": "Debug",
+    "Application.br.com.capjemini.algoritimos.Aula31.Principal.executor": "Run",
     "Application.br.com.capjemini.algoritimos.aula14.Enquanto.executor": "Run",
     "Application.br.com.capjemini.algoritimos.aula15.Enquanto.executor": "Run",
     "Application.br.com.capjemini.algoritimos.aula19.Para.executor": "Run",
@@ -92,19 +98,22 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/home/jmauricio/IdeaProjects/capjemini",
+    "last_opened_file_path": "/home/jmauricio/IdeaProjects/capjemini/src/br/com/capjemini/algoritimos/Aula31",
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "reference.settingsdialog.IDE.editor.colors.Java"
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="br.com.capjemini.algoritimos.test.test01" />
     </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/br/com/capjemini/algoritimos/Aula31" />
+    </key>
   </component>
-  <component name="RunManager" selected="Application.Exercicio">
+  <component name="RunManager" selected="Application.TestRegistro01">
     <configuration name="Exercicio" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="br.com.capjemini.algoritimos.aula29.Exercicio" />
       <module name="capjemini" />
@@ -118,12 +127,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Funcao" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="br.com.capjemini.algoritimos.aula26.Funcao" />
+    <configuration name="Principal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.capjemini.algoritimos.aula30.Principal" />
       <module name="capjemini" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="br.com.capjemini.algoritimos.aula26.*" />
+          <option name="PATTERN" value="br.com.capjemini.algoritimos.aula30.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -131,12 +140,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FuncaoEProcedimento" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="br.com.capjemini.algoritimos.aula27.FuncaoEProcedimento" />
+    <configuration name="TestRegistro01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.capjemini.algoritimos.aula32.TestRegistro01" />
       <module name="capjemini" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="br.com.capjemini.algoritimos.aula27.*" />
+          <option name="PATTERN" value="br.com.capjemini.algoritimos.aula32.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -144,12 +153,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Matrizes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="br.com.capjemini.algoritimos.aula25.Matrizes" />
+    <configuration name="br.com.capjemini.algoritimos.Aula31.Principal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.capjemini.algoritimos.Aula31.Principal" />
       <module name="capjemini" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="br.com.capjemini.algoritimos.aula25.*" />
+          <option name="PATTERN" value="br.com.capjemini.algoritimos.Aula31.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -172,11 +181,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TestRegistro01" />
+        <item itemvalue="Application.br.com.capjemini.algoritimos.Aula31.Principal" />
+        <item itemvalue="Application.Principal" />
         <item itemvalue="Application.Exercicio" />
         <item itemvalue="Application.br.com.capjemini.algoritimos.aula28.FuncaoEProcedimento" />
-        <item itemvalue="Application.FuncaoEProcedimento" />
-        <item itemvalue="Application.Funcao" />
-        <item itemvalue="Application.Matrizes" />
       </list>
     </recent_temporary>
   </component>
@@ -197,7 +206,15 @@
       <option name="project" value="LOCAL" />
       <updated>1715058017427</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Add exercicio28">
+      <option name="closed" value="true" />
+      <created>1715455464417</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1715455464417</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -213,7 +230,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Commit inicial" />
-    <option name="LAST_COMMIT_MESSAGE" value="Commit inicial" />
+    <MESSAGE value="Add exercicio28" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add exercicio28" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -287,6 +305,16 @@
           <url>file://$PROJECT_DIR$/src/br/com/capjemini/algoritimos/aula29/Exercicio.java</url>
           <line>57</line>
           <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/br/com/capjemini/algoritimos/aula32/TestRegistro01.java</url>
+          <line>71</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/br/com/capjemini/algoritimos/aula32/Registro.java</url>
+          <line>2</line>
+          <option name="timeStamp" value="22" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
